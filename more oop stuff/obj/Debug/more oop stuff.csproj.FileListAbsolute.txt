@@ -1,0 +1,8 @@
+S:\college\programming\projects\more oop stuff\bin\Debug\more oop stuff.exe.config
+S:\college\programming\projects\more oop stuff\bin\Debug\more oop stuff.exe
+S:\college\programming\projects\more oop stuff\bin\Debug\more oop stuff.pdb
+S:\college\programming\projects\more oop stuff\obj\Debug\more oop stuff.csproj.AssemblyReference.cache
+S:\college\programming\projects\more oop stuff\obj\Debug\more oop stuff.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\more oop stuff\obj\Debug\more oop stuff.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\more oop stuff\obj\Debug\more oop stuff.exe
+S:\college\programming\projects\more oop stuff\obj\Debug\more oop stuff.pdb

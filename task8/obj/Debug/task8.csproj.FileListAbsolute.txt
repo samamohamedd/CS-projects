@@ -1,0 +1,8 @@
+S:\college\programming\projects\task8\bin\Debug\task8.exe.config
+S:\college\programming\projects\task8\bin\Debug\task8.exe
+S:\college\programming\projects\task8\bin\Debug\task8.pdb
+S:\college\programming\projects\task8\obj\Debug\task8.csproj.AssemblyReference.cache
+S:\college\programming\projects\task8\obj\Debug\task8.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\task8\obj\Debug\task8.exe
+S:\college\programming\projects\task8\obj\Debug\task8.pdb

@@ -1,0 +1,52 @@
+Hash tables are great when you want quick access to certain values.
+In Python, variable arguments allow you to pass a variable number of arguments to a function. There are two types of variable arguments: positional variable arguments and keyword variable arguments.
+
+1. Positional Variable Arguments:
+Positional variable arguments allow you to pass a variable number of arguments to a function as positional arguments. You can use the asterisk (*) operator to indicate that the function should accept a variable number of arguments. Here's an example:
+
+   `````
+   def my_func(*args):
+       for arg in args:
+           print(arg)
+
+   my_func(1, 2, 3)  # Output: 1 2 3
+   my_func('a', 'b', 'c', 'd')  # Output: 'a' 'b' 'c' 'd'
+   ```
+
+   In this example, the `my_func` function accepts a variable number of arguments as positional arguments using the `*args` syntax. The function then iterates over the arguments and prints each one.
+
+2. Keyword Variable Arguments:
+Keyword variable arguments allow you to pass a variable number of arguments to a function as keyword arguments. You can use the double asterisk (**) operator to indicate that the function should accept a variable number of keyword arguments. Here's an example:
+
+   ````
+   def my_func(**kwargs):
+       for key, value in kwargs.items():
+           print(f'{key}: {value}')
+
+   my_func(name='Alice', age=30, city='New York')  # Output: name: Alice age: 30 city: New York
+   my_func(country='France', language='French')  # Output: country: France language: French
+   ````
+
+   In this example, the `my_func` function accepts a variable number of keyword arguments using the `**kwargs` syntax. The function then iterates over the keyword arguments and prints each key-value pair.
+
+You can also combine positional and keyword variable arguments in a single function definition. Here's an example:
+
+   ````
+   def my_func(*args, **kwargs):
+       for arg in args:
+           print(arg)
+       for key, value in kwargs.items():
+           print(f'{key}: {value}')
+
+   my_func(1, 2, 3, name='Alice', age=30, city='New York')
+   ````
+
+   In this example, the `my_func` function accepts both positional and keyword arguments. The positional arguments are collected into a tuple using the `*args` syntax, and the keyword arguments are collected into a dictionary using the `**kwargs` syntax. The function then iterates over both the positional and keyword arguments and prints them.
+
+Variable arguments are a powerful feature in Python that allow you to write more flexible and reusable functions. They can be used to handle a wide variety of use cases, from simple logging and debugging to more complex data processing and analysis.
+
+
+
+
+whan using (*args) :by defult python pack all this arguments in a tuble
+when (*kwargs) : python pack all the arguments in a dictionary 

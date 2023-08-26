@@ -1,0 +1,8 @@
+S:\college\programming\projects\files\bin\Debug\files.exe.config
+S:\college\programming\projects\files\bin\Debug\files.exe
+S:\college\programming\projects\files\bin\Debug\files.pdb
+S:\college\programming\projects\files\obj\Debug\files.csproj.AssemblyReference.cache
+S:\college\programming\projects\files\obj\Debug\files.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\files\obj\Debug\files.exe
+S:\college\programming\projects\files\obj\Debug\files.pdb

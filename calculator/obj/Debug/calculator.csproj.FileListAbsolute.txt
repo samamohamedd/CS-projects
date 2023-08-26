@@ -1,0 +1,8 @@
+S:\college\programming\projects\calculator\bin\Debug\calculator.exe.config
+S:\college\programming\projects\calculator\bin\Debug\calculator.exe
+S:\college\programming\projects\calculator\bin\Debug\calculator.pdb
+S:\college\programming\projects\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+S:\college\programming\projects\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\calculator\obj\Debug\calculator.exe
+S:\college\programming\projects\calculator\obj\Debug\calculator.pdb

@@ -1,0 +1,11 @@
+S:\college\programming\projects\gui oop\bin\Debug\gui oop.exe.config
+S:\college\programming\projects\gui oop\bin\Debug\gui oop.exe
+S:\college\programming\projects\gui oop\bin\Debug\gui oop.pdb
+S:\college\programming\projects\gui oop\obj\Debug\gui oop.csproj.AssemblyReference.cache
+S:\college\programming\projects\gui oop\obj\Debug\gui oop.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\gui oop\obj\Debug\gui_oop.Form1.resources
+S:\college\programming\projects\gui oop\obj\Debug\gui_oop.Properties.Resources.resources
+S:\college\programming\projects\gui oop\obj\Debug\gui oop.csproj.GenerateResource.cache
+S:\college\programming\projects\gui oop\obj\Debug\gui oop.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\gui oop\obj\Debug\gui oop.exe
+S:\college\programming\projects\gui oop\obj\Debug\gui oop.pdb

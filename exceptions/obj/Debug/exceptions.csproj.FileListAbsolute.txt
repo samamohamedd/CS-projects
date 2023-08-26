@@ -1,0 +1,8 @@
+S:\college\programming\projects\exceptions\bin\Debug\exceptions.exe.config
+S:\college\programming\projects\exceptions\bin\Debug\exceptions.exe
+S:\college\programming\projects\exceptions\bin\Debug\exceptions.pdb
+S:\college\programming\projects\exceptions\obj\Debug\exceptions.csproj.AssemblyReference.cache
+S:\college\programming\projects\exceptions\obj\Debug\exceptions.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\exceptions\obj\Debug\exceptions.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\exceptions\obj\Debug\exceptions.exe
+S:\college\programming\projects\exceptions\obj\Debug\exceptions.pdb

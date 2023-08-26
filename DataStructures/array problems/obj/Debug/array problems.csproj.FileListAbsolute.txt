@@ -1,0 +1,8 @@
+S:\college\programming\DataStructures\array problems\bin\Debug\array problems.exe.config
+S:\college\programming\DataStructures\array problems\bin\Debug\array problems.exe
+S:\college\programming\DataStructures\array problems\bin\Debug\array problems.pdb
+S:\college\programming\DataStructures\array problems\obj\Debug\array problems.csproj.AssemblyReference.cache
+S:\college\programming\DataStructures\array problems\obj\Debug\array problems.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\DataStructures\array problems\obj\Debug\array problems.csproj.CoreCompileInputs.cache
+S:\college\programming\DataStructures\array problems\obj\Debug\array problems.exe
+S:\college\programming\DataStructures\array problems\obj\Debug\array problems.pdb

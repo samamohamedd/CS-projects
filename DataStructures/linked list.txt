@@ -1,0 +1,77 @@
+the downside of the singly linkedlist is that it can't be iterated in reverse or traverse from back to front, if we ever lost refrence to the head node the list may be lost forever. 
+its better used when you have less memory and ur main goal is having fast insertion and deletion and not much searching
+
+-linked lists are low level data structure. they r used in other data structures
+
+the goodside:
+fast insertion
+fast deletion 
+ordered
+flexible size
+
+the bad side:
+slow lookup
+more memory
+
+
+insert:
+prev.next --> new_node
+new_node --> this_node
+this node that has index == i
+
+
+append:
+if empty :
+create new node
+head = new node
+tail = head
+=============== 
+if the list isnt empty
+create new node
+self.tail.next_node = new node 
+new_node.perv_node = self.tail
+self.tail = new node
+len+=1
+
+
+prepend:
+if empty :
+create new node
+head = new node
+tail = head
+=============
+if not empty:
+create a new_node(value, self.head)
+self.head.setprev(new_node)
+len +=1
+self.head = new_node
+
+
+insert:
+new_node = node(value)
+index = 0
+if empty :
+create new node
+head = new node
+tail = head
+=============
+if not empty:
+this_node = self.head
+while this_node.next_node:
+if index == i:
+this_node.set next(new node)
+new_node.set_prev(this_node)
+new_node.set_next(this_node.get_next)
+prev --> new --> this_node
+     <--     <--
+
+
+
+
+
+
+
+
+
+
+

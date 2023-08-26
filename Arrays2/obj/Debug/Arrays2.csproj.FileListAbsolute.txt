@@ -1,0 +1,8 @@
+S:\college\programming\projects\Arrays2\bin\Debug\Arrays2.exe.config
+S:\college\programming\projects\Arrays2\bin\Debug\Arrays2.exe
+S:\college\programming\projects\Arrays2\bin\Debug\Arrays2.pdb
+S:\college\programming\projects\Arrays2\obj\Debug\Arrays2.csproj.AssemblyReference.cache
+S:\college\programming\projects\Arrays2\obj\Debug\Arrays2.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\Arrays2\obj\Debug\Arrays2.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\Arrays2\obj\Debug\Arrays2.exe
+S:\college\programming\projects\Arrays2\obj\Debug\Arrays2.pdb

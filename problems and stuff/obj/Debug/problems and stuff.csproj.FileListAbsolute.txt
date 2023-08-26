@@ -1,0 +1,8 @@
+S:\college\programming\projects\problems and stuff\obj\Debug\problems and stuff.csproj.AssemblyReference.cache
+S:\college\programming\projects\problems and stuff\obj\Debug\problems and stuff.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\problems and stuff\obj\Debug\problems and stuff.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\problems and stuff\bin\Debug\problems and stuff.exe.config
+S:\college\programming\projects\problems and stuff\bin\Debug\problems and stuff.exe
+S:\college\programming\projects\problems and stuff\bin\Debug\problems and stuff.pdb
+S:\college\programming\projects\problems and stuff\obj\Debug\problems and stuff.exe
+S:\college\programming\projects\problems and stuff\obj\Debug\problems and stuff.pdb

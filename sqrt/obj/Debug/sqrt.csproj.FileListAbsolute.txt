@@ -1,0 +1,8 @@
+S:\college\programming\projects\sqrt\obj\Debug\sqrt.csproj.AssemblyReference.cache
+S:\college\programming\projects\sqrt\obj\Debug\sqrt.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\sqrt\obj\Debug\sqrt.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\sqrt\bin\Debug\sqrt.exe.config
+S:\college\programming\projects\sqrt\bin\Debug\sqrt.exe
+S:\college\programming\projects\sqrt\bin\Debug\sqrt.pdb
+S:\college\programming\projects\sqrt\obj\Debug\sqrt.exe
+S:\college\programming\projects\sqrt\obj\Debug\sqrt.pdb

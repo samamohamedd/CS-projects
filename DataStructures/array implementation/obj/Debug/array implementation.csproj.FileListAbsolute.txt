@@ -1,0 +1,8 @@
+S:\college\programming\DataStructures\array implementation\bin\Debug\array implementation.exe.config
+S:\college\programming\DataStructures\array implementation\bin\Debug\array implementation.exe
+S:\college\programming\DataStructures\array implementation\bin\Debug\array implementation.pdb
+S:\college\programming\DataStructures\array implementation\obj\Debug\array implementation.csproj.AssemblyReference.cache
+S:\college\programming\DataStructures\array implementation\obj\Debug\array implementation.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\DataStructures\array implementation\obj\Debug\array implementation.csproj.CoreCompileInputs.cache
+S:\college\programming\DataStructures\array implementation\obj\Debug\array implementation.exe
+S:\college\programming\DataStructures\array implementation\obj\Debug\array implementation.pdb

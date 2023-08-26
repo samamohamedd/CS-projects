@@ -1,0 +1,8 @@
+S:\college\programming\projects\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+S:\college\programming\projects\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+S:\college\programming\projects\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+S:\college\programming\projects\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+S:\college\programming\projects\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+S:\college\programming\projects\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+S:\college\programming\projects\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+S:\college\programming\projects\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

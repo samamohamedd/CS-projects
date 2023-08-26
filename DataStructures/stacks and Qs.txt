@@ -1,0 +1,47 @@
+stacks and queues are both linear data structures.they allows us to traverse sequentially one by one . in which only one data element can be directly reached
+
+the main deffrence between them is how items get removed from them
+==========================
+Stacks and queues are two common data structures used in computer programming and computer science. They are both collections of items, but they differ in the way they store and retrieve data.
+
+A stack is a Last-In-First-Out (LIFO) data structure, meaning that the last item added to the stack will be the first item removed. Think of a stack of plates - when you add a new plate, you place it on top of the stack, and when you remove a plate, you take the top one off. In programming, a stack is often used to keep track of function calls and their associated data. When a function is called, its data is added to the top of the stack, and when the function returns, its data is removed from the top of the stack.
+
+A queue, on the other hand, is a First-In-First-Out (FIFO) data structure, meaning that the first item added to the queue will be the first item removed. Think of a line of people waiting for a bus - the first person in line will be the first person to board the bus, and so on. In programming, a queue is often used to manage tasks that need to be completed in a specific order. When a task is added to the queue, it is added to the back of the line, and when a task is completed, it is removed from the front of the line.
+
+Both stacks and queues can be implemented using arrays or linked lists. When using an array, a stack or queue can be created by keeping track of the index of the top element or the front and rear of the queue, respectively. When using a linked list, each node contains a reference to the next node in the list, allowing for efficient insertion and deletion of elements.
+
+In summary, stacks and queues are two important data structures in computer science that are used to store and retrieve data in specific ways. Stacks use a Last-In-First-Out (LIFO) approach, while queues use a First-In-First-Out (FIFO) approach.
+=========================
+
+stacks has :
+O(n) look up
+O(1) pop
+O(1) push
+O(1) peek(shows the last added data)
+
+they are useful :
+-when you need last value that was added or seen.
+-in launguage-specific engines: most programming language are built whith stack architecture
+-browser history 
+==========================
+
+queues has :
+O(n) lookup
+O(1) enqueue(push)
+O(1) dequeue(pop)
+O(1) peek
+
+==========================
+you can build stacks with either arrays or linked lists and they are fairly the same. you just decide which one you would use depending on the pros and cons of it. for example arrays has cache locality so its gonna be faster and it will take less space .but its not the best with sizes. unlike linked lists that doesnt have a specified size.
+
+you can build queues with them both too but you wont wanna try arrays with it . its gonna be so ineffecient . with O(n) for dequeue ,unlike linked lists that have O(1) .
+
+stacks using linked list:
+pop(top هيتمسح)
+prev_node --> none 
+
+
+
+
+
+
